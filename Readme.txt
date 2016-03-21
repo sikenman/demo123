@@ -7,3 +7,4 @@ I have done following tasks
 4. go to pages Beer  pages in the book
 5. started to
 6. ganesh dai
+7. added new
