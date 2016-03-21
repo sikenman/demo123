@@ -1,0 +1,42 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Junkware Removal Tool (JRT) by Malwarebytes
+Version: 8.0.4 (03.14.2016)
+Operating System: Windows 8.1 x64 
+Ran by owner (Administrator) on Thu 03/17/2016 at  1:53:55.14
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+
+File System: 12 
+
+Failed to delete: C:\Users\Public\thunder network (Folder) 
+Failed to delete: C:\Program Files (x86)\pc faster (Folder) 
+Successfully deleted: C:\ProgramData\duplicaterecord.js (File) 
+Successfully deleted: C:\ProgramData\pc faster (Folder) 
+Successfully deleted: C:\ProgramData\thunder network (Folder) 
+Successfully deleted: C:\Users\owner\AppData\Local\Google\Chrome\User Data\Default\Extensions\gkojfkhlekighikafcpjkiklfbnlmeio (Folder) 
+Successfully deleted: C:\Users\owner\Appdata\LocalLow\thunder network (Folder) 
+Successfully deleted: C:\Users\owner\AppData\Roaming\Mozilla\Firefox\Profiles\swe2zcv9.default\extensions\{EF522540-89F5-46b9-B6FE-1829E2B572C6} (Folder) 
+Successfully deleted: C:\Users\owner\AppData\Roaming\Mozilla\Firefox\Profiles\swe2zcv9.default\extensions\staged (Folder) 
+Successfully deleted: C:\Users\owner\AppData\Roaming\pc faster (Folder) 
+Successfully deleted: C:\users\Public\Documents\pc faster (Folder) 
+Successfully deleted: C:\Program Files (x86)\thunder network (Folder) 
+
+
+
+Registry: 5 
+
+Successfully deleted: HKCU\Software\Microsoft\Windows\CurrentVersion\Run\\GoogleChromeAutoLaunch_BFB1AAC9AD5759BCC5B883652DF33E69 (Registry Value) 
+Successfully deleted: HKCU\Software\Microsoft\Internet Explorer\Main\\Start Page (Registry Value) 
+Successfully deleted: HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects\{DE05CF4A-7B0A-4775-B5E5-396244938679} (Registry Key)
+Successfully deleted: HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects\{DE05CF4A-7B0A-4775-B5E5-396244938679} (Registry Key)
+Successfully deleted: HKLM\Software\Wow6432Node\Microsoft\Internet Explorer\Main\\Start Page (Registry Value) 
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Scan was completed on Thu 03/17/2016 at  1:55:10.01
+End of JRT log
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
